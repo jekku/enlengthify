@@ -4,5 +4,8 @@
   "description": "Expand all shortened URLs in GamersTM image src for mongo",
   "main": "index.js",
   "author": "Jekri Preclaro Orlina <jekri.orlina@any.tv> (http://github.com/jekku)",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cuddle": "0.0.50"
+  }
 }
