@@ -6,6 +6,7 @@
   "author": "Jekri Preclaro Orlina <jekri.orlina@any.tv> (http://github.com/jekku)",
   "license": "ISC",
   "dependencies": {
+    "anytv-node-mongo": "0.0.8",
     "cuddle": "0.0.50"
   }
 }
